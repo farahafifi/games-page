@@ -81,7 +81,7 @@ body{
     width: 15%;
     height: 713px;
     background-color: black;
-    z-index: 10;
+    z-index: 99999;
     align-items: center;
     transition: 2s;
 }
